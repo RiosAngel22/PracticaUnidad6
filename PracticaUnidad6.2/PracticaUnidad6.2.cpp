@@ -1,7 +1,6 @@
 /////Librerías//////
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
-#include <iostream>
 
 /////Variables//////
 using namespace sf;

@@ -1,0 +1,4 @@
+﻿  PracticaUnidad6.3.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\PracticaUnidad6.3\PracticaUnidad6.3.cpp(35,36): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\PracticaUnidad6.3\PracticaUnidad6.3.cpp(35,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  PracticaUnidad6.3.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\PracticaUnidad6.3\Debug\PracticaUnidad6.3.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi\\PracticaUnidad6\\PracticaUnidad6.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71E7A6-0CE4-45D3-AE14-71AA88EC8183}|PracticaUnidad6.3.vcxproj|C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi\\PracticaUnidad6\\PracticaUnidad6.3\\PracticaUnidad6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C71E7A6-0CE4-45D3-AE14-71AA88EC8183}|PracticaUnidad6.3.vcxproj|solutionrelative:PracticaUnidad6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticaUnidad6.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi\\PracticaUnidad6\\PracticaUnidad6.3\\PracticaUnidad6.3.cpp",
+              "RelativeDocumentMoniker": "PracticaUnidad6.3.cpp",
+              "ToolTip": "C:\\Users\\Operador\\Desktop\\Angel R\u00EDos\\trabajos practicos\\facultad\\mavi\\PracticaUnidad6\\PracticaUnidad6.3\\PracticaUnidad6.3.cpp",
+              "RelativeToolTip": "PracticaUnidad6.3.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T08:21:28.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
