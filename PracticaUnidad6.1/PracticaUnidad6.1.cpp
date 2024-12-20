@@ -14,7 +14,7 @@ float alto = 600;
 float ancho = 800;
 
 //creamos la posicion y el delta
-Vector2f Posicion(0.0f, alto / 2.0f);
+Vector2f Posicion(ancho/2, alto / 2.0f);
 float deltaTime;
 
 CircleShape circulo;
