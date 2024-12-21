@@ -11,8 +11,8 @@ private:
 
 	float radio = 50.0f;
 	float velocidad = 0.0f;
-	float gravedad = 0.5;
-	float fuerzaderebote = 8.0f;
+	float gravedad = 0.25;
+	float fuerzaderebote = 2.0f;
 	Color color = Color::Red;
 
 	bool visible = true;
@@ -26,14 +26,18 @@ private:
 	Vector2f Posicion;
 
 public:
-	Circulo(Vector2f posicion, int limite);
+	Circulo(int limite);
 	CircleShape getCirculo();
+
+	//mover circulo
 	void Mover();
+	void ReiniciarPosicion();
+	void CambiarPosicion();
+
+	//borrar circulo
 	bool clickeado(Window &App);
 	bool getVisibilidad();
 	void setVisibilidad(bool visibleActualmente);
-
-	void setPosicion(Vector2f posicionnueva);
 
 	bool timerTerminado();
 	void reducirTimer();

@@ -1,9 +1,12 @@
 #include "SFML/Graphics.hpp"
 #include "Circulo.h"
+#include <random>
+#include <time.h>
 
 using namespace sf;
 
-Circulo::Circulo(Vector2f posicion, int limite) {
+Circulo::Circulo(int limite) {
+	srand(time(NULL));
 
 	//cargamos la textura
 	Textura = new Texture;
@@ -22,7 +25,9 @@ Circulo::Circulo(Vector2f posicion, int limite) {
 
 	//colocamos al circulo y le implementamos la colision del suelo
 	limiteAltura = limite;
-	Posicion = posicion;
+
+	//seteamos la posicion
+	ReiniciarPosicion();
 
 	//calculamos el deltaTime
 	deltaTime = 1.0f / 60.0f;
@@ -35,9 +40,10 @@ CircleShape Circulo::getCirculo() {
 
 void Circulo::Mover() {
 
-	//si esta por debajo del suelo, rebotar
-	if ((CirculoNuevo->getPosition().y + CirculoNuevo->getRadius()) >= limiteAltura) {
+	//si esta por debajo del suelo, cambiar posicion y reaparecer
+	if ((CirculoNuevo->getPosition().y - CirculoNuevo->getRadius()/2) >= limiteAltura) {
 		velocidad += -fuerzaderebote * deltaTime;
+		CambiarPosicion();
 	}
 	else {
 		//sino, aplicar gravedad
@@ -87,6 +93,16 @@ void Circulo::reiniciarTimer() {
 	timer = timerMaximo;
 }
 
-void Circulo::setPosicion(Vector2f posicionnueva) {
-	Posicion = posicionnueva;
+//borrado por el jugador
+void Circulo::ReiniciarPosicion() {
+	float PosX = rand() % 500 + 100;
+	float PosY = rand() % 50 + 10;
+	Posicion = Vector2f(PosX, (limiteAltura  + CirculoNuevo->getRadius() + PosY));
+	velocidad = 0;
+}
+
+//borrado naturalmente
+void Circulo::CambiarPosicion() {
+	float PosX = rand() % 500 + 100;
+	Posicion.x = PosX;
 }

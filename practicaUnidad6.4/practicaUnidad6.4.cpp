@@ -3,9 +3,6 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
-#include <random>
-#include <time.h>
-
 #include "Circulo.h"
 
 /////Variables//////
@@ -35,9 +32,7 @@ int numeroDePelotas = 4;
 void crearPelotas() {
 	//creamos las pelotas y las esparcimos aleatoriamente
 	for (int i = 1; i < numeroDePelotas; i++) {
-		float y = rand() % 300 + 100;
-		float x = rand() % 700 + 10;
-		circulo1 = new Circulo(Vector2f(x, y), alto);
+		circulo1 = new Circulo(alto);
 		circulos.push_back(*circulo1);
 	}
 }
@@ -59,7 +54,7 @@ void textoFinal() {
 
 int main()
 {
-	srand(time(NULL));
+
 
 	//Creamos nuestro texto
 	fuente.loadFromFile("operius-regular.ttf");
@@ -146,10 +141,7 @@ int main()
 						circulos[i].reiniciarTimer();
 						circulos[i].setVisibilidad(true);
 
-						float y = rand() % 300 + 100;
-						float x = rand() % 700 + 10;
-
-						circulos[i].setPosicion(Vector2f(x, y));
+						circulos[i].ReiniciarPosicion();
 
 					}
 					else {
