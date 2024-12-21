@@ -22,13 +22,13 @@ C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaU
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(99,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(106,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
   practicaUnidad6.4.cpp
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(35,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(50,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(51,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(51,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(71,36): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(71,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(89,24): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(129,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(33,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(48,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(49,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(49,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(69,36): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(69,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(87,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(127,22): warning C4018: '<': no coinciden signed/unsigned
   Generando código...
   practicaUnidad6.4.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Debug\practicaUnidad6.4.exe

@@ -1,8 +1,6 @@
 /////Librerías//////
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
-#include <iostream>
-
 #include "Circulo.h"
 
 /////Variables//////
@@ -54,7 +52,7 @@ void textoFinal() {
 
 int main()
 {
-
+	
 
 	//Creamos nuestro texto
 	fuente.loadFromFile("operius-regular.ttf");
