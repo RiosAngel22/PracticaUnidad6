@@ -1,34 +1,34 @@
 ﻿  Circulo.cpp
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:         with
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:         [
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:             T=int
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:         ]
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:         and
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:         [
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:             T=float
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,74): warning C4244:         ]
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:         with
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:         [
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:             T=int
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:         ]
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:         and
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:         [
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:             T=float
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(61,47): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:             T=int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:         and
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,74): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:             T=int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:         and
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(60,47): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(97,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(98,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(99,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(106,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(105,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
   practicaUnidad6.4.cpp
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(33,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(48,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(49,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
 C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(49,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(69,36): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(69,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(87,24): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(127,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(67,36): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(67,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(85,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\practicaUnidad6.4.cpp(125,22): warning C4018: '<': no coinciden signed/unsigned
   Generando código...
   practicaUnidad6.4.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Debug\practicaUnidad6.4.exe

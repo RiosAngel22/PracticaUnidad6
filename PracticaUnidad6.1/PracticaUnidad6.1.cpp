@@ -55,6 +55,7 @@ int main()
 		Posicion.x = 0;
 		circulo.setPosition(Posicion);
 
+		//si la velocidad es menor a la maxima, la aumentamos
 		if (velocidad < velocidadMaxima) {
 			velocidad += 5;
 		}

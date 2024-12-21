@@ -52,8 +52,6 @@ void textoFinal() {
 
 int main()
 {
-	
-
 	//Creamos nuestro texto
 	fuente.loadFromFile("operius-regular.ttf");
 	texto.setFont(fuente);

@@ -23,7 +23,7 @@ Circulo::Circulo(int limite) {
 	CirculoNuevo->setRadius(radio);
 	CirculoNuevo->setOrigin(CirculoNuevo->getRadius() / 2, CirculoNuevo->getRadius() / 2);
 
-	//colocamos al circulo y le implementamos la colision del suelo
+	//le implementamos la colision del suelo
 	limiteAltura = limite;
 
 	//seteamos la posicion
@@ -39,7 +39,6 @@ CircleShape Circulo::getCirculo() {
 }
 
 void Circulo::Mover() {
-
 	//si esta por debajo del suelo, cambiar posicion y reaparecer
 	if ((CirculoNuevo->getPosition().y - CirculoNuevo->getRadius()/2) >= limiteAltura) {
 		velocidad += -fuerzaderebote * deltaTime;
@@ -101,7 +100,7 @@ void Circulo::ReiniciarPosicion() {
 	velocidad = 0;
 }
 
-//borrado naturalmente
+//borrado al caer
 void Circulo::CambiarPosicion() {
 	float PosX = rand() % 500 + 100;
 	Posicion.x = PosX;

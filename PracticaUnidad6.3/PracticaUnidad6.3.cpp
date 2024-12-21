@@ -62,12 +62,9 @@ int main()
 
 		}
 
-		velocidad += gravedad * deltaTime;
-		Posicion.y += velocidad * deltaTime;
+	
 
-		circulo.setPosition(Posicion);
-
-		if (Posicion.y >= alto) {
+		if (Posicion.y >= alto - circulo.getRadius()) {
 			//cada rebote vamos reduciendo la velocidad y aumentando la gravedad, 
 			// para que rebote menos, mas rapido
 			if (impulsoDeRebote > 0) {
@@ -77,6 +74,10 @@ int main()
 			
 			velocidad = -impulsoDeRebote;
 		}
+		velocidad += gravedad * deltaTime;
+		Posicion.y += velocidad * deltaTime;
+
+		circulo.setPosition(Posicion);
 
 		App.clear();
 		App.draw(circulo);
