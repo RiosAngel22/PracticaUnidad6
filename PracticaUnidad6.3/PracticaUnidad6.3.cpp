@@ -17,7 +17,7 @@ Vector2f Posicion(ancho / 2, alto / 2.0f);
 float deltaTime;
 float velocidad = 0.0f;
 float gravedad = 0.98f;
-float impulsoDeRebote = 30.0;
+float impulsoDeRebote = 35.0;
 
 
 
@@ -72,7 +72,7 @@ int main()
 			// para que rebote menos, mas rapido
 			if (impulsoDeRebote > 0) {
 				impulsoDeRebote -= 1.0f;
-				gravedad += 0.5;
+				gravedad += 1.5;
 			}
 			
 			velocidad = -impulsoDeRebote;

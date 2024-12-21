@@ -1,0 +1,20 @@
+﻿  Circulo.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:             T=int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:         and
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,74): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:             T=int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:         and
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Circulo.cpp(55,47): warning C4244:         ]
+  practicaUnidad6.4.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad6\practicaUnidad6.4\Debug\practicaUnidad6.4.exe
